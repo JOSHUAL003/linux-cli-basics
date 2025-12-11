@@ -2,6 +2,7 @@
 - ls -l
 - cd /home
 - mkdir test
+- rmdir test
 - touch txt.file
 - rm file.txt
  
